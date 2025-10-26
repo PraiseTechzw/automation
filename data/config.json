@@ -1,0 +1,46 @@
+{
+  "search_keywords": [
+    "Software Engineer Zimbabwe",
+    "AI Developer Africa",
+    "Tech Entrepreneur Harare",
+    "Data Scientist Zimbabwe"
+  ],
+  "content_topics": [
+    "The future of AI in Zimbabwe's tech ecosystem",
+    "Building scalable software in emerging markets",
+    "Remote work culture in African tech",
+    "Innovation opportunities in Zimbabwe",
+    "Lessons from building tech products in Africa"
+  ],
+  "daily_limits": {
+    "connections": 15,
+    "messages": 20,
+    "posts": 2,
+    "comments": 10
+  },
+  "timing": {
+    "short_delay": [
+      3,
+      8
+    ],
+    "medium_delay": [
+      10,
+      20
+    ],
+    "long_delay": [
+      30,
+      60
+    ]
+  },
+  "ai_settings": {
+    "temperature": 0.8,
+    "max_tokens": 400,
+    "enable_vision": true,
+    "enable_ab_testing": true
+  },
+  "notifications": {
+    "webhook_enabled": false,
+    "webhook_url": "",
+    "email_notifications": false
+  }
+}

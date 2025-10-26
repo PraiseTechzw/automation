@@ -21,7 +21,7 @@ requests>=2.31.0
 fake-useragent>=1.4.0
 
 # Database
-sqlite3  # Built-in Python module
+# sqlite3  # Built-in Python module (included with Python)
 
 # Additional utilities
 python-dotenv>=1.0.0  # For environment variable management
