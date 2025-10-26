@@ -1,0 +1,28 @@
+# LinkedIn AI Automation Bot Dependencies
+# ======================================
+
+# Core web automation
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+undetected-chromedriver>=3.5.0
+
+# AI and ML
+google-generativeai>=0.3.0
+numpy>=1.24.0
+
+# Data processing and visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# HTTP requests and webhooks
+requests>=2.31.0
+
+# User agent rotation
+fake-useragent>=1.4.0
+
+# Database
+sqlite3  # Built-in Python module
+
+# Additional utilities
+python-dotenv>=1.0.0  # For environment variable management
+schedule>=1.2.0       # For advanced scheduling (optional)
